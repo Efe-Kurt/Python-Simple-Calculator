@@ -1,3 +1,5 @@
+# Version 1.1 - Updated via Terminal
+
 print("\n\nWe are gonna do a simple calculator today.")
 print("İt's going to do addition,subtraction,multiplication,divison\n\n")
 
